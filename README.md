@@ -1,4 +1,4 @@
-# Internet Computer Reference
+# BigFile Reference
 
 **A preview of the latest `master` branch can be found [here](https://khsfq-wqaaa-aaaak-qckvq-cai.icp0.io/docs).**
 
